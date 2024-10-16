@@ -1,0 +1,17 @@
+{
+  "name": "04_source_map",
+  "version": "1.0.0",
+  "description": "source map usecase",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./script.js -d lib --source-maps"
+  },
+  "author": "Sayed Noman",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-react": "^7.25.7"
+  }
+}
