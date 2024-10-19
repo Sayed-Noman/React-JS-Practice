@@ -1,0 +1,75 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to React",
+        "description": "Learn the basics of React, including components and state management.",
+        "price": 99.99,
+        "image": "https://cdn-icons-png.freepik.com/512/1183/1183672.png"
+      },
+      {
+        "id": 2,
+        "title": "Advanced JavaScript",
+        "description": "Deep dive into JavaScript concepts and features.",
+        "price": 79.99,
+        "image": "https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp&w=256"
+      },
+      {
+        "id": 3,
+        "title": "CSS Flexbox and Grid",
+        "description": "Master layout techniques with Flexbox and Grid.",
+        "price": 49.99,
+        "image": "https://i.pinimg.com/736x/a9/dc/c7/a9dcc740cad3149598307b5de8bc10c3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Node.js for Beginners",
+        "description": "Get started with server-side JavaScript using Node.js.",
+        "price": 89.99,
+        "image": "https://i.pinimg.com/736x/1e/6b/e9/1e6be929f78b0900fa607c1d1c5df960.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Python for Data Science",
+        "description": "An introduction to Python and its libraries for data science.",
+        "price": 89.99,
+        "image": "https://testmatick.com/wp-content/uploads/2021/03/Python-Logo.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Full Stack Development",
+        "description": "Learn to build complete applications with front-end and back-end technologies.",
+        "price": 199.99,
+        "image": "https://img.freepik.com/premium-vector/full-stack-logo-design-template-idea_529200-377.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mobile App Development with React Native",
+        "description": "Build cross-platform mobile apps using React Native.",
+        "price": 149.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_60i98z56qbS0CgZOHf6R7ublMF7ZyGl2A&s"
+      },
+      {
+        "id": 8,
+        "title": "Machine Learning Basics",
+        "description": "Understand the fundamentals of machine learning algorithms.",
+        "price": 129.99,
+        "image": "https://cbx-prod.b-cdn.net/COLOURBOX30276049.jpg?width=800&height=800&quality=70"
+      },
+      {
+        "id": 9,
+        "title": "Web Design for Beginners",
+        "description": "Learn the principles of web design and user experience.",
+        "price": 59.99,
+        "image": "https://img.freepik.com/premium-photo/circle-with-word-web-design-it_939033-76875.jpg"
+      },
+      {
+        "id": 10,
+        "title": "DevOps Fundamentals",
+        "description": "Introduction to DevOps practices and tools for software development.",
+        "price": 99.99,
+        "image": "https://img.freepik.com/premium-vector/devops-software-development-methodology-dev-ops-software-vector-stock-illustration_100456-11643.jpg"
+      }
+    ]
+  }
+  
