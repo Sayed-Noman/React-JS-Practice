@@ -19,9 +19,11 @@ const renderCourses = () => {
     const root = ReactDOM.createRoot(document.getElementById('root'));
     root.render(
         <div className="container">
-            {coursesData.courses.map(course => (
-                <CourseCard key={course.id} course={course} />
-            ))}
+            {
+                coursesData.courses.map(course => (
+                    CourseCard({ course })
+                ))
+            }
         </div>
     );
 };
