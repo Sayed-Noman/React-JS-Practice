@@ -1,0 +1,10 @@
+@import '../style.module.css'; /* Import base styles */
+
+.specialButton {
+  background-color: blue;
+  color: white;
+}
+
+.specialButton:hover {
+  background-color: darkblue;
+}
