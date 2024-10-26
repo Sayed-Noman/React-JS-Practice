@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #666;
+}
+
+h3 {
+    color: #555;
+}
+
+h4 {
+    color: #444;
+}
+
+div {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Specific styles for different sections */
+.welcome-message {
+    background-color: #e0f7fa;
+    /* Light cyan */
+    border-left: 5px solid #00796b;
+    /* Darker teal */
+}
+
+.login-message {
+    background-color: #ffecb3;
+    /* Light amber */
+    border-left: 5px solid #ff9800;
+    /* Darker amber */
+}
+
+.conditional-message {
+    background-color: #c8e6c9;
+    /* Light green */
+    border-left: 5px solid #388e3c;
+    /* Darker green */
+}
+
+.user-profile {
+    background-color: #ffe0b2;
+    /* Light orange */
+    border-left: 5px solid #fb8c00;
+    /* Darker orange */
+}
+
+.status-message {
+    background-color: #e1bee7;
+    /* Light purple */
+    border-left: 5px solid #7b1fa2;
+    /* Darker purple */
+}
+
+.current-page {
+    background-color: #bbdefb;
+    /* Light blue */
+    border-left: 5px solid #2196f3;
+    /* Darker blue */
+}
+
+p {
+    color: #777;
+}
